@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Arpit website</title>
+  
 </head>
 
 <body>
@@ -93,7 +93,7 @@
     <label>Your Email:</label>
     <input type="email" name="Your Email" value=""><br>
     <label>Your Message:</label><br>
-    <textarea name="Your Message" id="" cols="30" rows="10"></textarea>
+    
     <input type="submit" name="">
 
   </form>
